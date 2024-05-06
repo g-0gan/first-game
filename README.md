@@ -31,3 +31,7 @@ python game/main.py
 ```bash
 pygbag --build game
 ```
+After this command overwrite files from build/web directory to your web directory!
+
+### Game in HTML:
+https://slothgeorge.github.io/first-game/game/web/
