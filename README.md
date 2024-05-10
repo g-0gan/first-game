@@ -1,6 +1,6 @@
-# PYGAME+PYGBAG template
+# PYGAME+PYGBAG First Project
 
-A working template to start coding. Just a colored screen and some infrastructure.
+There is my attempt to make my own simple game called "Angry dancer". Game contains a music player(A and D keys are designed to change songs and space is designed to stop music and simultaneously make the dancer "angry" 
 
 ### deploy virtual environment
 
